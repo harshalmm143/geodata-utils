@@ -6,8 +6,6 @@ With the provided functions, users can seamlessly retrieve lists of states, dist
 
 Whether you're building a web application, mobile app, or any other project that requires geographical data, geodata-utils offers a simple and efficient solution for managing and accessing location information. By abstracting away the complexities of data retrieval, developers can focus on building robust and feature-rich applications without getting bogged down by the intricacies of geographical data management.
 
-![image](https://github.com/harshalmm143/geodata-utils/assets/102899317/ab4b53d1-4ed1-4d30-8462-d93c578cb42f)
-
 ## Installation
 
 You can install geodata-utils via npm by running the following command in your React project directory:
