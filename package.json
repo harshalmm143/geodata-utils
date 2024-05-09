@@ -1,0 +1,32 @@
+{
+  "name": "geodata-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geodata",
+    "location",
+    "state",
+    "district",
+    "subdistrict",
+    "village",
+    "utility",
+    "helper",
+    "geography",
+    "data",
+    "region",
+    "information",
+    "management",
+    "geographic",
+    "toolkit",
+    "tool",
+    "geo",
+    "resource",
+    "services"
+  ],
+  "author": "Harshal Mahajan",
+  "license": "MIT"
+}
