@@ -1,6 +1,6 @@
 {
   "name": "geodata-utils",
-  "version": "1.0.2",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,9 @@
   ],
   "author": "Harshal Mahajan",
   "repository": "https://github.com/harshalmm143/geodata-utils",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "axios": "^1.6.8"
+  }
 }
