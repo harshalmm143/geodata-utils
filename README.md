@@ -177,6 +177,3 @@ For any inquiries or support, you can reach out to the project maintainers via h
 
 - [@harshalmm143](https://www.github.com/harshalmm143)
 
-```
-
-```
