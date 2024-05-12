@@ -1,8 +1,6 @@
 # India-GeoData GeoData-utils, State, District, Sub-District, and Village Data Utility
 
 
-![screen-captureonline-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/harshalmm143/geodata-utils/assets/102899317/5d837f5e-2fc1-4b0d-81f8-d31c61aae526)
-
 
 
 This npm package provides a collection of utility functions designed to simplify the retrieval of geographical data, specifically information about states, districts, sub-districts, and villages. The package is designed to work with a JSON dataset, allowing users to easily access various levels of geographical information within their applications.
